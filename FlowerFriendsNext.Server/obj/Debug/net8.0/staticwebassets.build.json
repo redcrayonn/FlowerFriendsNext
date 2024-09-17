@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "a/LUgWNSefoMzcQaImwlT3+KAQd21r1bALroQ9lAEIE=",
+  "Source": "FlowerFriendsNext.Server",
+  "BasePath": "_content/FlowerFriendsNext.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\Other\\FlowerFriendsNext\\flowerfriendsnext.client\\flowerfriendsnext.client.esproj",
+      "Version": 2,
+      "Source": "flowerfriendsnext.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
