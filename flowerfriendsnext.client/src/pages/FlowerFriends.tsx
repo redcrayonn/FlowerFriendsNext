@@ -5,14 +5,13 @@ import AsideNav from "../components/asidenav/asidenav";
 function FlowerFriends() {
     return (
         <Container size="4">
-        <Flex>
-          <AsideNav></AsideNav>
-          <Box flexGrow="1">
-            <img src={banner} style={{ width: "100%", maxHeight: "400px", objectFit: "cover"}}></img>
-            
-          </Box>
-        </Flex>
-      </Container>
+            <Flex>
+                <AsideNav></AsideNav>
+                <Box flexGrow="1">
+                    <img src={banner} style={{ width: "100%", maxHeight: "400px", objectFit: "cover"}}></img>
+                </Box>
+            </Flex>
+        </Container>
     );
 }
 
